@@ -1,7 +1,7 @@
 import lasagne
 import numpy as np
 import config
-import cPickle as pickle
+import pickle
 import gzip
 import logging
 from collections import Counter
